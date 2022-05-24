@@ -1,1 +1,1 @@
-# chrome-extensions.examples.spin-google-logo
+# Chorme Extension - Example - Spin google logo
